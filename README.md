@@ -14,6 +14,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolenixe&show_icons=true&locale=en" alt="nicolenixe" /></p>
 
 Meu último projeto disponível
-git@github.com:NicoleNixe/Cubos-Flix.git
+-git@github.com:NicoleNixe/Cubos-Flix.git
 
 
