@@ -14,4 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolenixe&show_icons=true&locale=en" alt="nicolenixe" /></p>
 
 Meu último projeto disponível
-[CubosFlix.READ.md]
+https://github.com/NicoleNixe/NicoleNixe/blob/c4d7b0d0f456da4593c00635bf6cdb5d69e4a3bf/CubosFlix.READ.md
